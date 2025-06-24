@@ -21,17 +21,6 @@ I'm a passionate developer with expertise in frontend and backend technologies. 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lin-applippli&show_icons=true&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lin-applippli&layout=compact&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-
 # 📫 Let's Connect
 - **Email**: lin@applippli.co.jp
 
