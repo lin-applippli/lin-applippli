@@ -23,5 +23,3 @@ I'm a passionate developer with expertise in frontend and backend technologies. 
 
 # 📫 Let's Connect
 - **Email**: lin@applippli.co.jp
-
-⭐️ Feel free to contribute, fork, or reach out for collaborations!
